@@ -1,0 +1,31 @@
+A simple Python program that helps you manage your personal finances by calculating your total balance and expenses. The program takes your current balance, income, and main expenses
+(food, rent, transport), then shows you the remaining balance. If the balance is negative, it warns you that you are in debt.
+
+
+✨ Features
+
+Add current balance and income
+
+Enter expenses: food, rent, and transport
+
+Calculate total expenses and remaining balance
+
+Display a warning if the balance is below zero
+
+
+🖼️ Example
+
+how much money you have : DH 1000
+add your income: DH 500
+add food expense: DH 200
+add rent expense: DH 300
+add transport expense : DH 100
+
+total balance:  900 DH  
+total expenses: 600 DH
+
+
+🛠️ Technologies
+
+Python 3
+
